@@ -1,1 +1,1 @@
-# Number_guessin_game
+# Number_guessing_game
